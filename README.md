@@ -1,6 +1,6 @@
 # Documentation Overview
 
-This folder contains all supporting documents for the **Innocent AI Security Portfolio**, including my resume, certifications, learning roadmap, and contact information. These documents provide context for my 180‑project portfolio and outline my professional background, goals, and learning journey.
+This folder contains all supporting documents for the **Innocent Udemba AI Security Portfolio**, including my resume, certifications, learning roadmap, and contact information. These documents provide context for my 180‑project portfolio and outline my professional background, goals, and learning journey.
 
 ## Contents
 
