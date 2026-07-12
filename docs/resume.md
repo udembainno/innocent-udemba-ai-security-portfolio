@@ -24,7 +24,7 @@ AI Security Engineer and Cybersecurity Specialist with expert‑level Python ski
 ## Portfolio
 A structured 180‑project portfolio covering Python fundamentals, automation, data engineering, machine learning, deep learning, secure MLOps, AI security, AI governance, red teaming, and enterprise AI architecture.
 
-GitHub: *github.com/udembainno*
+GitHub: *https://www.github.com/udembainno*
 
 ## Contact
 Email: *udembainno@gmail.com*  
