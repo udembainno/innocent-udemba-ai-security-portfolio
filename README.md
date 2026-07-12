@@ -2,7 +2,7 @@
 
 Welcome to my **AI Security, AI Governance, and Secure MLOps Portfolio** — a structured, 180‑project collection built over six months. This repository documents my complete engineering journey across Python, machine learning, deep learning, adversarial ML, secure MLOps, AI governance automation, red teaming, and enterprise AI security architecture.
 
-This portfolio demonstrates my progression from foundational Python skills to advanced AI Security Engineering and Enterprise AI Governance — supporting my long‑term goal of becoming **a leader in AI Security and Governance** and preparing for my **PhD in Artificial Intelligence (beginning October 2026)**.
+This portfolio demonstrates my progression from foundational Python skills to advanced AI Security Engineering and Enterprise AI Governance — supporting my long‑term goal of becoming **a leader in AI Security and Governance** and preparing for my **PhD in Artificial Intelligence (beginning January 2027)**.
 
 ---
 
