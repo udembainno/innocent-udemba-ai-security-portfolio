@@ -1,27 +1,94 @@
-# Documentation Overview
+# Innocent E. Udemba AI Security Portfolio
 
-This folder contains all supporting documents for the **Innocent Udemba AI Security Portfolio**, including my resume, certifications, learning roadmap, and contact information. These documents provide context for my 180‑project portfolio and outline my professional background, goals, and learning journey.
+Welcome to my **AI Security, AI Governance, and Secure MLOps Portfolio** — a structured, 180‑project collection built over six months. This repository documents my complete engineering journey across Python, machine learning, deep learning, adversarial ML, secure MLOps, AI governance automation, red teaming, and enterprise AI security architecture.
 
-## Contents
+This portfolio demonstrates my progression from foundational Python skills to advanced AI Security Engineering and Enterprise AI Governance — supporting my long‑term goal of becoming an **AI Security Architect** and preparing for my **PhD in Artificial Intelligence (starting January 2027)**.
 
-### 📄 Resume
-**File:** `resume.md`  
-A complete professional resume summarizing my skills, experience, education, and the 180‑project AI Security & Governance portfolio.
+---
 
-### 🎓 Degrees & Certifications
-**File:** `degrees-certifications.md`  
-A list of completed, and ongoing degrees and certifications in cybersecurity, Artificial Intelligence, AI security, governance, and cloud technologies.
+## 📁 Repository Structure
 
-### 🧭 Learning Roadmap
-**File:** `learning-roadmap.md`  
-A detailed breakdown of my structured 180‑day learning plan covering Python, ML, AI Security, Governance, and Enterprise AI Architecture.
+### **01 — Python Fundamentals**
+Core Python skills including basics, functions, data structures, file handling, and CLI tools.
 
-### 📬 Contact Information
-**File:** `contact.md`  
-Professional contact details including email, LinkedIn, GitHub, and areas of interest for collaboration or job opportunities.
+### **02 — Python Automation**
+Security automation, cloud scripting, API tools, and log parsers.
 
-## Purpose
-These documents support the main portfolio by providing a clear overview of my background, learning journey, and professional direction. They help recruiters, collaborators, and hiring managers understand the scope and depth of my work.
+### **03 — Data Engineering**
+Pandas, NumPy, ETL pipelines, dataset validation, and anomaly detection.
 
-## Related Portfolio
-For the full project structure, visit the root repository README.
+### **04 — Machine Learning**
+ML pipelines, model training, evaluation, and feature engineering.
+
+### **05 — Deep Learning**
+PyTorch, neural networks, CNNs, RNNs, LSTMs, and Transformers.
+
+### **06 — Secure MLOps**
+Model registry, versioning, CI/CD pipelines, drift monitoring, and secure deployment.
+
+### **07 — AI Security**
+Adversarial attacks (FGSM, PGD, CW), model poisoning, extraction, prompt injection defense, and threat modeling.
+
+### **08 — AI Governance**
+NIST AI RMF automation, EU AI Act compliance, risk scoring engines, audit logging, and governance dashboards.
+
+### **09 — AI Red Teaming**
+Misuse detection, fraud detection, red team simulations, and attack scenario modeling.
+
+### **10 — Enterprise AI Security Architecture**
+Architecture diagrams, security controls, secure MLOps blueprints, and enterprise threat models.
+
+### **docs/**
+Resume, degrees, certifications, learning roadmap, and contact information.
+
+---
+
+## 🎯 Purpose of This Portfolio
+
+This repository serves as:
+
+- A **complete engineering record** of my 180‑day AI Security program  
+- A **professional showcase** for recruiters and hiring managers  
+- A **technical foundation** for my upcoming PhD research  
+- A **demonstration of mastery** across AI Security, Governance, and Secure MLOps  
+- A **reference architecture** for enterprise AI security systems  
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Python (expert level — 180 projects)
+- Machine Learning & Deep Learning
+- Adversarial ML & AI Security Engineering
+- Secure MLOps (registry, versioning, CI/CD, drift detection)
+- AI Governance (NIST AI RMF, EU AI Act)
+- AI Red Teaming & Threat Modeling
+- Enterprise AI Security Architecture
+- Cloud Security & IAM Automation
+
+---
+
+## 📬 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/innocent-udemba-72356a210  
+- **GitHub:** https://www.github.com/udembainno
+- **Email:** udembainno@gmail.com
+- **Location:** Des Moines, IA  
+
+---
+
+## 📘 Documentation
+
+See the `docs/` folder for:
+
+- Resume  
+- Certifications  
+- Learning roadmap  
+- Contact information  
+
+---
+
+## ⭐ Final Note
+
+This portfolio represents my commitment to mastering AI Security, AI Governance, and Responsible AI — and my long‑term goal of becoming a **Director of AI Governance**, **Chief AI Security Officer**, or **AI Risk and Governance Consultant**.
+
