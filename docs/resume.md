@@ -19,7 +19,6 @@ AI Security Engineer and Cybersecurity Specialist with expert‑level Python ski
 - PhD in Artificial Intelligence (Starting January 2027)
 - Master of Science in Cybersecurity & Information Assurance
 - Bachelor of Science in Cybersecurity & Information Assurance
-- Diploma in Accounting & Finance
 
 ## Portfolio
 A structured 180‑project portfolio covering Python fundamentals, automation, data engineering, machine learning, deep learning, secure MLOps, AI security, AI governance, red teaming, and enterprise AI architecture.
