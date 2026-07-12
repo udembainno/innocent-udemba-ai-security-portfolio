@@ -10,7 +10,6 @@ This document provides my professional contact details for collaboration, job op
 
 ## Professional Profiles
 **LinkedIn:** https://www.linkedin.com/in/innocent-udemba-72356a210 
-
 **GitHub:** https://www.github.com/udembainno 
 **Portfolio:** https://www.nostersecurity.com
 
