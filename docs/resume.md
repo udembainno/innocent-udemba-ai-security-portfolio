@@ -1,8 +1,4 @@
 # Resume
-This document contains my full professional resume, including skills, experience, and my 180‑project AI Security portfolio.
-
-
-# Resume
 
 This document contains my complete professional resume, showcasing my background in cybersecurity, AI security engineering, AI governance, and secure MLOps. It highlights my academic achievements, technical skills, and the 180‑project AI Security & Governance portfolio I built over six months.
 
