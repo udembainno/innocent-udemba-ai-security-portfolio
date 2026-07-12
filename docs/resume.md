@@ -24,9 +24,9 @@ AI Security Engineer and Cybersecurity Specialist with expert‑level Python ski
 ## Portfolio
 A structured 180‑project portfolio covering Python fundamentals, automation, data engineering, machine learning, deep learning, secure MLOps, AI security, AI governance, red teaming, and enterprise AI architecture.
 
-GitHub: *[Insert your GitHub link]*
+GitHub: *github.com/udembainno*
 
 ## Contact
-Email: *[your email]*  
-LinkedIn: *[your LinkedIn]*  
-Location: Indianapolis, IN
+Email: *udembainno@gmail.com*  
+LinkedIn: *https://www.linkedin.com/in/innocent-udemba-72356a210/*  
+Location: Des Moines, IA
